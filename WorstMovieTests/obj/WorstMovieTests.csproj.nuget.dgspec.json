@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ale/Projects/WorstMovie/WorstMovieTests/WorstMovieTests.csproj": {}
+    "/home/ale/Projects/WorstMovies/WorstMovieTests/WorstMovieTests.csproj": {}
   },
   "projects": {
-    "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj": {
+    "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj",
+        "projectUniqueName": "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj",
         "projectName": "WorstMovie",
-        "projectPath": "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj",
+        "projectPath": "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj",
         "packagesPath": "/home/ale/.nuget/packages/",
-        "outputPath": "/home/ale/Projects/WorstMovie/WorstMovieApi/obj/",
+        "outputPath": "/home/ale/Projects/WorstMovies/WorstMovieApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ale/.nuget/NuGet/NuGet.Config"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "/home/ale/Projects/WorstMovie/WorstMovieTests/WorstMovieTests.csproj": {
+    "/home/ale/Projects/WorstMovies/WorstMovieTests/WorstMovieTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ale/Projects/WorstMovie/WorstMovieTests/WorstMovieTests.csproj",
+        "projectUniqueName": "/home/ale/Projects/WorstMovies/WorstMovieTests/WorstMovieTests.csproj",
         "projectName": "WorstMovieTests",
-        "projectPath": "/home/ale/Projects/WorstMovie/WorstMovieTests/WorstMovieTests.csproj",
+        "projectPath": "/home/ale/Projects/WorstMovies/WorstMovieTests/WorstMovieTests.csproj",
         "packagesPath": "/home/ale/.nuget/packages/",
-        "outputPath": "/home/ale/Projects/WorstMovie/WorstMovieTests/obj/",
+        "outputPath": "/home/ale/Projects/WorstMovies/WorstMovieTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ale/.nuget/NuGet/NuGet.Config"
@@ -96,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj": {
-                "projectPath": "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj"
+              "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj": {
+                "projectPath": "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj"
               }
             }
           }

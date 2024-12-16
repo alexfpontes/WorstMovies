@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K99OpdgFjq3i/IUT1+6PxW5tWhJYgcjlYRr0FDLxrBqkHGgvvyPVmqbTwq3WuoT/Tac17eyQuyzZP7mGyFnGRQ==",
+  "dgSpecHash": "DYfAO5e3evvFAFGEwYeOmQUq9lEVtjo2Z/udDWlD3STSGHegmqXcQmrlsueEbe+2z0BQdAIQGCeUAdPmjz7uWw==",
   "success": true,
-  "projectFilePath": "/home/ale/Projects/WorstMovie/WorstMovieTests/WorstMovieTests.csproj",
+  "projectFilePath": "/home/ale/Projects/WorstMovies/WorstMovieTests/WorstMovieTests.csproj",
   "expectedPackageFiles": [
     "/home/ale/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/home/ale/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",

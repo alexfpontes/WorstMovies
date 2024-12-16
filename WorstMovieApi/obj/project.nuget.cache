@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yTlyVaD43laOGqabXqVZV0V5r3JsGIjBIjV0a0WtkzSiug7pfpqbT7VHmgym7M2MVscYQ5l4loKK2MnrpFJ0eg==",
+  "dgSpecHash": "DuvfQEE/axNzqC5Nk7yqYJ3Ls1BG9X6tVC9NebS/ME993VRlOSVcA9xMWIgas8yMoUux7u/9PUgZFbrUtmvXZA==",
   "success": true,
-  "projectFilePath": "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj",
+  "projectFilePath": "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj",
   "expectedPackageFiles": [
     "/home/ale/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
     "/home/ale/.nuget/packages/microsoft.data.sqlite.core/9.0.0/microsoft.data.sqlite.core.9.0.0.nupkg.sha512",

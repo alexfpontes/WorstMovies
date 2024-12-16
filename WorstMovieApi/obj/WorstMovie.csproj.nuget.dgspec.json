@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj": {}
+    "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj": {}
   },
   "projects": {
-    "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj": {
+    "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj",
+        "projectUniqueName": "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj",
         "projectName": "WorstMovie",
-        "projectPath": "/home/ale/Projects/WorstMovie/WorstMovieApi/WorstMovie.csproj",
+        "projectPath": "/home/ale/Projects/WorstMovies/WorstMovieApi/WorstMovie.csproj",
         "packagesPath": "/home/ale/.nuget/packages/",
-        "outputPath": "/home/ale/Projects/WorstMovie/WorstMovieApi/obj/",
+        "outputPath": "/home/ale/Projects/WorstMovies/WorstMovieApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ale/.nuget/NuGet/NuGet.Config"
