@@ -1,0 +1,6 @@
+@WorstMovie_HostAddress = http://localhost:5031
+
+GET {{WorstMovie_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
