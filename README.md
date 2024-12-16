@@ -31,7 +31,7 @@ Banco de dados Sqlite embarcado e em memória sem nescessidade de instalação e
 
 1. 
    ```bash
-   git clone https://github.com/alex/worstmovie
+   git clone https://github.com/alexfpontes/WorstMovies.git
 
 
 ## Rodar a aplicação
